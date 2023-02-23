@@ -20,6 +20,7 @@ def string_count(input_str)
 
 end
 
+
 print string_count("abracadabra") 
 print "\n"
 print string_count("Code Wars") 
